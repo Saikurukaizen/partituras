@@ -36,3 +36,5 @@ git clone https://github.com/Saikurukaizen/partituras
     . Después realizar un implode() y crear una cadena de texto con ese array de cases ya creado.
 
 El resultado es un código más limpio, ordenado y escalable. Si se quisiera implementar otras características a una pieza o añadir más secciones a una partitura.
+
+Toda la creación de la repo, sus carpetas y la rama master se ha creado desde la terminal del IDE usando los comandos basicos de Git
